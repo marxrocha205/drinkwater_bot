@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Token do bot (obtido do BotFather)
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '7420233569:AAH1KyIZfWOypGAWmdxgONjPHGCU-DYiklU'
 
 # Função que será chamada a cada 30 minutos
 def send_message_every_30_minutes(context: CallbackContext):
